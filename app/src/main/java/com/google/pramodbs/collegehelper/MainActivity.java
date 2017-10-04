@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 });
 
     }
-
+//override method
     @Override
     public void onClick(View v) {
         if(v==loginbtn){
